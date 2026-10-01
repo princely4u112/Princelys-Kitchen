@@ -1,0 +1,6 @@
+{
+  "name": "Princely's Kitchen",
+  "description": "Authentic Nigerian restaurant website featuring delicious local dishes, direct WhatsApp ordering, and a dynamic Supabase-powered admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
